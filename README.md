@@ -1,6 +1,6 @@
 Dockerized Python + PostgreSQL App**
 
-## 📌 **Project Overview**
+## **Project Overview**
 
 This project demonstrates how to:
 
@@ -20,7 +20,7 @@ This project is ideal for **Beginners learning Docker, DevOps, or QA Automation.
 
 ---
 
-## 🏗️ **Project Structure**
+##  **Project Structure**
 
 ```
 dockerized-postgres-app/
@@ -33,7 +33,7 @@ dockerized-postgres-app/
 
 ---
 
-## 🚀 **How It Works**
+##  **How It Works**
 
 ### **1. PostgreSQL Service**
 
@@ -58,7 +58,7 @@ The `app` service:
 
 ---
 
-## 🐳 **Docker Compose Configuration**
+##  **Docker Compose Configuration**
 
 Your `docker-compose.yml` defines two services:
 
@@ -100,7 +100,7 @@ volumes:
 
 ---
 
-## 🧪 **Python Script Behavior**
+##  **Python Script Behavior**
 
 Your `app.py`:
 
@@ -120,7 +120,7 @@ Row: (1, 'Docker User')
 
 ---
 
-## ▶️ **How to Run the Project**
+##  **How to Run the Project**
 
 ### **1. Navigate to project folder**
 
@@ -143,7 +143,7 @@ docker compose up --build
 
 ---
 
-## 🛑 **Stopping the Project**
+##  **Stopping the Project**
 
 Press:
 
@@ -165,7 +165,7 @@ docker compose down -v
 
 ---
 
-## 📦 **Technologies Used**
+##  **Technologies Used**
 
 * Python 3.10
 * PostgreSQL 15
@@ -174,7 +174,7 @@ docker compose down -v
 
 ---
 
-## 🌱 **Learning Outcomes**
+##  **Learning Outcomes**
 
 By completing this project, you learned:
 
